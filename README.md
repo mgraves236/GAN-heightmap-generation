@@ -1,6 +1,6 @@
 # GAN-heightmap-generation
 
-This repository is a 1.5 year long university project. Its main goal is to create a Generative Adversarial Network to create heightmaps to be used in Unreal Engine. Unreal Engine code will generate a terrain from the provided heightmap with use of common tools used for procedural terrain generation.
+This repository is a 1.5 year long university project. Its main goal is to create a Generative Adversarial Network to create heightmaps to be used in Unreal Engine. Unreal Engine code will generate a terrain from the provided heightmap with the use of common tools used for procedural terrain generation.
 
 GAN will be trained on data provided by [NASA Visible Earth](https://visibleearth.nasa.gov/).
 
